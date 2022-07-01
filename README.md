@@ -6,10 +6,10 @@ Features:
 - customizable font style, size, color
 - customizable editor background color and other minor accents
 - line counter
-
-
+  
+  
 /// TODO ///
-
+  
 - Text justification settings
 - Enable/Disable text wrapping
  - Side scroll button
