@@ -433,9 +433,6 @@ def key_handler(event=None):
 # Main Window
 root = Tk()
 root.title("Fancy Notepad")
-icon = PhotoImage(file="E:\\Pulpit\\notebook.png")
-# Icon downloaded from game-icons.net
-root.iconphoto(True, icon)
 
 # Window Size
 window_width = 800
