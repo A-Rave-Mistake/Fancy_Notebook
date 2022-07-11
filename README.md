@@ -10,19 +10,28 @@ Features:
   
 /// TODO ///
   
-- Change root window to be a class
-- 'New Window' option in 'File' menu
-- if__name == '__main'___ once the root window becomes a class
-- BUG: Correctly display amount of lines for files you open
-  
+- Side scroll button
+- Make the selection bold / italic, if there's no selection, it will make the whole text file bold or italic
+- Customizable selection background color and highlighted text color
 - Text justification settings
 - Enable/Disable text wrapping
- - Side scroll button
-- Customizable selection background color and highlighted text color
-- Customizable [TAB] size / distance
+- Highlight entire line
+- Highlight selection permanently or hide highlights
+- Go to line
+- Find
+- Find & Replace
+
+- LEET translator to / from
+- Shakespearan translator
+- Medieval translator
+- Pirate translator
+- Binary Translator
   
-- Add tabs, allow for multiple notepad pages at once without opening new windows
+
+- BUG: Correctly display amount of lines for files you open and for tabs you click on
+- Customizable [TAB] size / distance
 - Add some icons to the dropdown menus (maybe)
 - Keyboard shortcuts
-- Save font and editor settings and load them on launch
 - Bookmarks (use line counter to jump to target line or highlight whole line, also a tool for storing bookmarks and quickly jumping between them)
+
+- Create .fancynote file extension that saves text content, font & editor settings, selections and bookmarks
