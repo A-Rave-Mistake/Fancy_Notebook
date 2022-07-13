@@ -27,6 +27,4 @@ Features:
 - Bookmarks (use line counter to jump to target line or highlight whole line, also a tool for storing bookmarks and quickly jumping between them)
 
 - Create .fancynote file extension that saves text content, font & editor settings, selections and bookmarks
-- generate combinations - insert up to 3 datas and it will create n amount of results (fake name generator)
-- generate random number in a range
 - generate password - a sequence of random numbers and letters
