@@ -7,7 +7,10 @@ Features:
 - customizable editor background color and other minor accents
 - line counter
 - text edit tools: bold, italic, uppercase, lowercase, reverse text, random number generator 
-- tabs, allowing for multiple open documents
+- tabs, allowing for multiple open documents  
+
+![notepad](https://i.imgur.com/Y8llxZg.jpg)
+![notepad](https://i.imgur.com/NXC4QYB.png)
   
   
 /// TODO ///
